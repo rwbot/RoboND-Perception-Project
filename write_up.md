@@ -121,8 +121,9 @@ variable. Having several different filters, comparison becomes much more complex
 I thought of a wonderful solution after playing around with ​Visualizing DBSCAN Clustering
 tool, which allows easy manipulation of parameters and seeing their effects in real time.
 I imagined something like the live filter interface on our phone cameras.
-
-
+```
+![filters](https://www.askdavetaylor.com/wp-content/uploads/2014/03/iphone-camera-wrong-mode-3-620x348.png)
+```
 Exploring the interplay between filter parameters would be so much more intuitive if there was a
 live feed of each filter. And also live feeds of different permutations of exaggerated parameter
 combinations, which would give an intuitive understanding of the effect of each parameter.
