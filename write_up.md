@@ -63,6 +63,8 @@ c. Using the generated training_set.sav the train_svm script was used to impleme
 the actual object recognition using the Support Vector Machine (SVM) machine
 learning algorithm. It outputted the trained classification model (model.sav) used
 to detect objects.
+![model_92_score](https://raw.githubusercontent.com/rwbot/RoboND-Perception-Project/master/images/model_92_score.png)
+![model_92](https://raw.githubusercontent.com/rwbot/RoboND-Perception-Project/master/images/model_92.png)
 ```
 
 # Pick and Place Setup
@@ -109,8 +111,7 @@ pick_pose, place_pose) function.
 ![world-2](https://raw.githubusercontent.com/rwbot/RoboND-Perception-Project/master/images/world2.png)
 ![world-3](https://raw.githubusercontent.com/rwbot/RoboND-Perception-Project/master/images/world3.png)
 
-![model_92](https://raw.githubusercontent.com/rwbot/RoboND-Perception-Project/master/images/model_92.png)
-![model_92_score](https://raw.githubusercontent.com/rwbot/RoboND-Perception-Project/master/images/model_92_score.png)
+
 # Improvements
 ```
 When playing around with all the parameters, leaf_size, maxclustersize, number of bins
