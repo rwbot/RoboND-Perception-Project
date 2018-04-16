@@ -61,11 +61,11 @@ optimal number to generate a decent training set.
 
 c. Using the generated training_set.sav the train_svm script was used to implement
 the actual object recognition using the Support Vector Machine (SVM) machine
-learning algorithm. It outputted the trained classification model (model.sav) used
-to detect objects.
+learning algorithm. As shown below, it outputted the trained classification model (model_92.sav) used
+to detect objects, with 92% accuracy.
+```
 ![model_92_score](https://raw.githubusercontent.com/rwbot/RoboND-Perception-Project/master/images/model_92_score.png)
 ![model_92](https://raw.githubusercontent.com/rwbot/RoboND-Perception-Project/master/images/model_92.png)
-```
 
 # Pick and Place Setup
 ```
