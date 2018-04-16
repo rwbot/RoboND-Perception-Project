@@ -105,10 +105,12 @@ pick_pose, place_pose) function.
 ```
 
 # Results
-![world-1](https://github.com/rwbot/RoboND-Perception-Project/blob/master/world1.png?raw=true)
-![world-2](https://github.com/rwbot/RoboND-Perception-Project/blob/master/world2.png?raw=true)
-![world-3](https://github.com/rwbot/RoboND-Perception-Project/blob/master/world3.png?raw=true)
+![world-1](https://raw.githubusercontent.com/rwbot/RoboND-Perception-Project/master/images/world1.png)
+![world-2](https://raw.githubusercontent.com/rwbot/RoboND-Perception-Project/master/images/world2.png)
+![world-3](https://raw.githubusercontent.com/rwbot/RoboND-Perception-Project/master/images/world3.png)
 
+![model_92](https://raw.githubusercontent.com/rwbot/RoboND-Perception-Project/master/images/model_92.png)
+![model_92_score](https://raw.githubusercontent.com/rwbot/RoboND-Perception-Project/master/images/model_92_score.png)
 # Improvements
 ```
 When playing around with all the parameters, leaf_size, maxclustersize, number of bins
